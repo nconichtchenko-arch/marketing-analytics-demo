@@ -4,7 +4,7 @@ import plotly.express as px
 from sqlalchemy import create_engine
 import os
 
-# Настройки подключения (из карты памяти)
+# Настройки подключения 
 DB_CONFIG = {
     "host": "localhost",
     "port": 5432,
