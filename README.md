@@ -5,12 +5,15 @@ Pet-проект: анализ эффективности рекламных к�
 ## 📸 Скриншоты
 
 **1. Общие метрики и Топ-10 кампаний по ROMI:**
+
 ![Метрики](assets/dashboard_metrics.png)
 
 **2. Зависимость CTR от ROMI:**
+
 ![CTR vs ROMI](assets/dashboard_scatter.png)
 
 **3. Детальная таблица с показателями:**
+
 ![Таблица](assets/dashboard_table.png)
 
 ## 🎯 Зачем это
